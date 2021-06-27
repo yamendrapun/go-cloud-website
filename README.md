@@ -1,7 +1,7 @@
 # go-cloud-website
 A Cloud hosting website
 
-#This is sample landing website for Cloud hosting company build with html and css.
+# This is sample landing website for Cloud hosting company build with html and css.
 
 # Demo:
 https://go-cloud-yamendra.netlify.app/
